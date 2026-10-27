@@ -1,0 +1,2 @@
+from . import shop_item
+
